@@ -1,3 +1,2 @@
 # testGame
 
-## Simple game engine
